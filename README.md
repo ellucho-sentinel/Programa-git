@@ -4,7 +4,6 @@ Este es mi primer repositorio en GitHub. Aquí voy a guardar mis códigos y prá
 
 ## 🛠️ Tecnologías utilizadas
 * Git (Control de versiones)
-* Kotlin
 
 ## 📝 Notas
 * He aprendido a solucionar problemas con las mayúsculas en los nombres de archivos.
